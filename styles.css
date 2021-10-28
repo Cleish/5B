@@ -1,0 +1,25 @@
+<style>
+	head{
+		box-sizing: border-box;
+	}
+	body{
+		background: gray;
+}
+	div-header{
+		float: center;
+		background: gray;
+		text-align: center;
+		font-size: 35px;
+		color: green;
+}
+ 	div-nav{
+		float: left;
+		background: red;
+		padding: 20px;
+}
+	div-section{
+		float: right;
+		background: blue;
+		color: red;
+}
+</style>
